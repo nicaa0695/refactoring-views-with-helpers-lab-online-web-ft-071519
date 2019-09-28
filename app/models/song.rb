@@ -5,5 +5,7 @@ class Song < ActiveRecord::Base
     if artist
       artist.name
     end
+    
+  
 
 end
